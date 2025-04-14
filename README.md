@@ -46,14 +46,6 @@
   <img src="https://komarev.com/ghpvc/?username=mr-uzairr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Hackathon%20Winner&logo=github&label=&color=34D399&logoColor=white&style=for-the-badge" height="35" alt="Hackathon Winner"/>
-  <img src="https://img.shields.io/static/v1?message=Open%20Source%20Contributor&logo=github&label=&color=FBBF24&logoColor=white&style=for-the-badge" height="35" alt="Open Source Contributor"/>
-</div>
 
 ---
 
@@ -77,7 +69,6 @@
 ### 🧑‍💻 Open Source Contributions
 
 - 🧑‍💻 Contributing to various **open-source projects** in the fields of **machine learning**, **DevOps**, and **mobile development**.
-- 🏅 Actively participate in **Hackathons** and **Open Source events**.
 
 ---
 
