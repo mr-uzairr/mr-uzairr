@@ -86,4 +86,12 @@
 - LinkedIn: [Muhammad Uzair](https://www.linkedin.com/in/muzair01/)
 - GitHub: [mr-uzairr](https://github.com/mr-uzairr)
 
+---
+
+### 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-uzairr/mr-uzairr/output/snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">✨ Let's build something amazing together! ✨</p>
