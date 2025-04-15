@@ -1,3 +1,6 @@
+
+---
+
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan 🇵🇰</h3>
 
@@ -9,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Software Engineer** passionate about **mobile development** and **AI**
-- 📱 I love building **cross-platform mobile apps** using **Flutter** and exploring **machine learning**
+- 🎓 I'm a **Software Engineer** with a passion for **mobile development** and **AI**
+- 📱 I love building **cross-platform apps** using **Flutter** and exploring **machine learning**
 - 🧠 Currently diving into **DevOps**, **Kubernetes**, and **Cloud Engineering**
 - 💬 Ask me about **Flutter**, **Dart**, **Python**, or anything tech-related!
-- 📫 Reach out: **uzair.engineerx@gmail.com**
+- 📫 Reach me at: **uzair.engineerx@gmail.com**
 - ☕ Fun Fact: I can turn coffee into code
 
 ---
@@ -34,9 +37,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-uzairr&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-uzairr&show_icons=true&theme=radical" width="45%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-uzairr&layout=compact&theme=radical" width="60%" />
@@ -46,36 +47,35 @@
   <img src="https://komarev.com/ghpvc/?username=mr-uzairr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
 ---
 
 ### 🚀 Recent Projects
 
-- **[SignSpeak](https://github.com/mr-uzairr/SignSpeak)**: A platform for deaf and hearing individuals to communicate through American Sign Language (ASL) using machine learning and real-time video calling.
-- **[EduConnect Pakistan](https://github.com/mr-uzairr/EduConnect-Pakistan)**: A MERN stack project connecting students with tutors for effective learning experiences.
-- **[DevOps CI/CD Pipeline](https://github.com/mr-uzairr/DevOps-CI-CD-Pipeline)**: A containerized web app with automated CI/CD pipeline and Kubernetes deployment.
+- 🔤 **[SignSpeak](https://github.com/mr-uzairr/SignSpeak)** – Bridging the communication gap between deaf and hearing individuals using ASL, ML, and real-time video calling.
+- 📚 **[EduConnect Pakistan](https://github.com/mr-uzairr/EduConnect-Pakistan)** – A MERN stack platform that connects students with tutors for effective online learning.
+- 🛠️ **[DevOps CI/CD Pipeline](https://github.com/mr-uzairr/DevOps-CI-CD-Pipeline)** – A containerized web app with automated CI/CD workflows and Kubernetes deployment.
 
 ---
 
-### 🌱 Current Learning
+### 🌱 Currently Learning
 
-- 📚 Currently exploring **Deep Learning** with **TensorFlow** for Natural Language Processing (NLP).
-- 🛠️ Diving deeper into **Cloud Computing** with services like **AWS** and **Google Cloud Platform**.
-- 🔒 Gaining expertise in **Cybersecurity** to secure applications and data in cloud environments.
-- 📈 Learning about **Data Engineering** and **ETL pipelines** for handling large-scale data.
+- 🤖 Deep Learning with **TensorFlow** for NLP
+- ☁️ Cloud Computing with **AWS** and **Google Cloud Platform**
+- 🔐 Cybersecurity principles for securing apps and cloud infrastructure
+- 🧮 Data Engineering and **ETL Pipelines** for large-scale data handling
 
 ---
 
 ### 🧑‍💻 Open Source Contributions
 
-- 🧑‍💻 Contributing to various **open-source projects** in the fields of **machine learning**, **DevOps**, and **mobile development**.
+- 🌍 Actively contributing to **open-source projects** in **machine learning**, **DevOps**, and **mobile development**
 
 ---
 
-### ✨ Let's Connect
+### 🤝 Let's Connect
 
-- LinkedIn: [Muhammad Uzair](https://www.linkedin.com/in/muzair01/)
-- GitHub: [mr-uzairr](https://github.com/mr-uzairr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muzair01/)
+- 💻 [GitHub](https://github.com/mr-uzairr)
 
 ---
 
